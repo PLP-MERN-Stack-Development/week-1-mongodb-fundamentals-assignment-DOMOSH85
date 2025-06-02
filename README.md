@@ -14,7 +14,7 @@ This repository contains the solutions for the **Week 1: MongoDB Fundamentals As
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/week-1-mongodb-fundamentals-assignment.git
+    git clone https://github.com/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-DOMOSH85.git
     ```
 2. **Navigate to the project directory:**
     ```bash
